@@ -6,3 +6,12 @@
   color: blue;
   
 }
+
+.row{
+  display: flex;
+  justify-content: space-between;
+}
+
+.text-lightblue{
+  color:lightblue;
+}
