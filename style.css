@@ -1,17 +1,12 @@
-.container{
+body{
+  font-family: ;
 
 }
 
-.text-body-secondary{
-  color: blue;
-  
-}
-
-.row{
-  display: flex;
-  justify-content: space-between;
-}
 
 .text-lightblue{
   color:lightblue;
+}
+h1{
+  color: #E53170;
 }
